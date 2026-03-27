@@ -144,6 +144,13 @@ academic-rag-bot/
    📎 Использованные источники:
      • Влияние методов машинного обучения на точность
        прогнозирования временных рядов финансовых рынков
+
+<img width="1224" height="988" alt="скрин_4" src="https://github.com/user-attachments/assets/7f1e1f19-34c3-4351-b893-3d360a4c00e3" />
+
+<img width="1215" height="897" alt="скрин_5" src="https://github.com/user-attachments/assets/66e42f6c-2b58-4e2c-b3d6-3f30251c604c" />
+
+<img width="1218" height="910" alt="скрин_6" src="https://github.com/user-attachments/assets/0980131f-f632-401f-9db1-87343e0b981d" />
+
 ```
 
 ## Отличия от простого агента
